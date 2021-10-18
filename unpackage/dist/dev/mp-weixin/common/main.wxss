@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/*每个页面公共css */
+::-webkit-scrollbar {
+		display: none;
+}
+	/* 自定义懒加载样式 */
+image[lazy="loading"] {
+		display: block;
+		width: 70px !important;
+		height: 70px !important;
+}
+._img[lazy="loading"] {
+		/*加载中*/
+		display: block;
+		width: 70px !important;
+		height: 70px !important;
+}
+._img[lazy="error"] {
+		/*加载失败*/
+		display: block;
+		width: 70px !important;
+		height: 70px !important;
+}
+image[lazy="error"] {
+		/*加载失败*/
+		display: block;
+		width: 70px !important;
+		height: 70px !important;
+}
+._img[lazy="loaded"] {
+		/*加载完成*/
+		display: block;
+		width: 70px !important;
+		height: 70px !important;
+}
+image[lazy="loaded"] {
+		/*加载完成*/
+		display: block;
+		width: 70px !important;
+		height: 70px !important;
+}
+
