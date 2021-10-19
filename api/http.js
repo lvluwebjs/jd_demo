@@ -15,9 +15,10 @@ export const getData = (obj) => {
 	)
 }
 export const getList = () => {
-	//列表标题数据
+	//列表标题数据 listTitle.json
 	return $ajax({
-		url: 'listTitle.json',
+		//使用nodejs来作为后台数据
+		url: '/title.json',
 		method: 'get',
 	})
 }

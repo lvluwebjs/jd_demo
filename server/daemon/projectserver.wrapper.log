@@ -1,0 +1,470 @@
+2021-09-06 10:21:43 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-06 10:21:43 - Started 10844
+2021-09-06 10:25:19 - Stopping projectserver.exe
+2021-09-06 10:25:19 - ProcessKill 10844
+2021-09-06 10:25:20 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-06 10:26:58 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-06 10:26:58 - Started 6280
+2021-09-06 13:32:13 - Stopping projectserver.exe
+2021-09-06 13:32:13 - ProcessKill 6280
+2021-09-06 13:32:13 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-07 09:00:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-07 09:00:31 - Started 5540
+2021-09-07 18:01:00 - Stopping projectserver.exe
+2021-09-07 18:01:00 - ProcessKill 5540
+2021-09-07 18:01:00 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-08 09:29:41 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-08 09:29:41 - Started 5580
+2021-09-08 13:24:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-08 13:24:59 - Started 5728
+2021-09-08 17:45:17 - Stopping projectserver.exe
+2021-09-08 17:45:17 - ProcessKill 5728
+2021-09-08 17:45:17 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-08 17:45:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-08 17:45:53 - Started 5624
+2021-09-08 18:01:50 - Stopping projectserver.exe
+2021-09-08 18:01:50 - ProcessKill 5624
+2021-09-08 18:01:50 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-09 09:23:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-09 09:23:20 - Started 5552
+2021-09-09 18:02:50 - Stopping projectserver.exe
+2021-09-09 18:02:50 - ProcessKill 5552
+2021-09-09 18:02:50 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-10 07:37:16 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-10 07:37:16 - Started 5640
+2021-09-11 10:16:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-11 10:16:24 - Started 5608
+2021-09-11 12:16:32 - Stopping projectserver.exe
+2021-09-11 12:16:32 - ProcessKill 5608
+2021-09-11 12:16:32 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-13 10:05:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-13 10:05:35 - Started 5636
+2021-09-13 18:00:37 - Stopping projectserver.exe
+2021-09-13 18:00:37 - ProcessKill 5636
+2021-09-13 18:00:37 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-14 10:49:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-14 10:49:21 - Started 5800
+2021-09-14 17:38:54 - Stopping projectserver.exe
+2021-09-14 17:38:54 - ProcessKill 5800
+2021-09-14 17:38:54 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-15 07:44:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-15 07:44:52 - Started 5568
+2021-09-15 16:42:00 - Stopping projectserver.exe
+2021-09-15 16:42:00 - ProcessKill 5568
+2021-09-15 16:42:00 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-16 09:27:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-16 09:27:13 - Started 5596
+2021-09-16 17:05:51 - Stopping projectserver.exe
+2021-09-16 17:05:51 - ProcessKill 5596
+2021-09-16 17:05:51 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-17 09:11:56 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-17 09:11:56 - Started 5696
+2021-09-17 15:53:58 - Stopping projectserver.exe
+2021-09-17 15:53:58 - ProcessKill 5696
+2021-09-17 15:53:58 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-22 09:32:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-22 09:32:34 - Started 5592
+2021-09-22 16:45:53 - Stopping projectserver.exe
+2021-09-22 16:45:53 - ProcessKill 5592
+2021-09-22 16:45:53 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-23 09:46:37 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-23 09:46:37 - Started 5680
+2021-09-23 11:51:53 - Stopping projectserver.exe
+2021-09-23 11:51:53 - ProcessKill 5680
+2021-09-23 11:51:53 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-23 11:52:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-23 11:52:29 - Started 5624
+2021-09-23 17:06:09 - Stopping projectserver.exe
+2021-09-23 17:06:09 - ProcessKill 5624
+2021-09-23 17:06:10 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-24 07:42:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-24 07:42:11 - Started 5520
+2021-09-24 17:47:54 - Stopping projectserver.exe
+2021-09-24 17:47:54 - ProcessKill 5520
+2021-09-24 17:47:54 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-27 09:24:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-27 09:24:20 - Started 5540
+2021-09-27 17:33:47 - Stopping projectserver.exe
+2021-09-27 17:33:47 - ProcessKill 5540
+2021-09-27 17:33:47 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-28 09:18:55 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-28 09:18:55 - Started 5572
+2021-09-28 18:06:32 - Stopping projectserver.exe
+2021-09-28 18:06:32 - ProcessKill 5572
+2021-09-28 18:06:32 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-29 09:28:20 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-29 09:28:20 - Started 5596
+2021-09-29 17:53:50 - Stopping projectserver.exe
+2021-09-29 17:53:50 - ProcessKill 5596
+2021-09-29 17:53:50 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-09-30 08:53:08 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-09-30 08:53:08 - Started 5500
+2021-09-30 18:13:41 - Stopping projectserver.exe
+2021-09-30 18:13:41 - ProcessKill 5500
+2021-09-30 18:13:42 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-06 10:03:39 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-06 10:03:39 - Started 5608
+2021-10-06 17:53:22 - Stopping projectserver.exe
+2021-10-06 17:53:22 - ProcessKill 5608
+2021-10-06 17:53:22 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-07 09:42:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-07 09:42:29 - Started 5564
+2021-10-07 18:25:07 - Stopping projectserver.exe
+2021-10-07 18:25:07 - ProcessKill 5564
+2021-10-07 18:25:07 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-08 09:22:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-08 09:22:18 - Started 5608
+2021-10-08 15:16:55 - Stopping projectserver.exe
+2021-10-08 15:16:55 - ProcessKill 5608
+2021-10-08 15:16:55 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-11 09:32:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-11 09:32:12 - Started 5640
+2021-10-11 17:16:10 - Stopping projectserver.exe
+2021-10-11 17:16:10 - ProcessKill 5640
+2021-10-11 17:16:10 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-12 09:31:52 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-12 09:31:52 - Started 5596
+2021-10-12 18:17:32 - Stopping projectserver.exe
+2021-10-12 18:17:32 - ProcessKill 5596
+2021-10-12 18:17:33 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-13 09:19:42 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-13 09:19:42 - Started 5652
+2021-10-13 18:33:23 - Stopping projectserver.exe
+2021-10-13 18:33:23 - ProcessKill 5652
+2021-10-13 18:33:23 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-14 08:55:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-14 08:55:59 - Started 5416
+2021-10-14 18:10:36 - Stopping projectserver.exe
+2021-10-14 18:10:36 - ProcessKill 5416
+2021-10-14 18:10:36 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-15 09:39:27 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-15 09:39:27 - Started 5632
+2021-10-15 15:54:31 - Stopping projectserver.exe
+2021-10-15 15:54:31 - ProcessKill 5632
+2021-10-15 15:54:31 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-18 09:33:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-18 09:33:09 - Started 5572
+2021-10-18 17:49:13 - Stopping projectserver.exe
+2021-10-18 17:49:13 - ProcessKill 5572
+2021-10-18 17:49:13 - Shutdown exception
+Message:系统正在关机。
+
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2021-10-19 09:48:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\hankou\server\node_modules\_node-windows@1.0.0-beta.5@node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\hankou\server\main.js --scriptoptions= --log "project-server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-19 09:48:49 - Started 5752

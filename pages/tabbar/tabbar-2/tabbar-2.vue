@@ -11,9 +11,9 @@
 
 		<view class="content-left">
 			<view class="content-shop" v-for="(item,index) in categoryList" :key="item.id">
-				<!-- v-lazy有可能对image标签不太友好 需要处理兼容问题 -->
-				<!-- #ifdef APP-PLUS -->
-				<image :lazy-load="true" :src="item.imgUrl" :key="item.id"></image>
+				<!-- v-lazy懒加载 有可能H5端对image标签不太友好，需要用条件编译来使用 img 标签 -->
+				<!-- #ifdef MP-WEIXIN -->
+				<image :src="item.imgUrl" :lazy-load="true"></image>
 				<!-- #endif -->
 				<!-- #ifdef H5 -->
 				<img v-lazy="item.imgUrl" :key="item.id">
@@ -33,10 +33,11 @@
 				current: 0,
 				scrollTop: 0,
 				moveHeight: 0,
-				titleView:[],
+				titleView: [],
 				categoryList: [],
 				obj: {
-					url: 'category.json'
+					//使用本地json文件来作为后台数据
+					url: '/category.json'
 				}
 			}
 		},
@@ -50,7 +51,8 @@
 				}),
 				// 打开页面第一次渲染数据(热门推荐数据)，后面列表数据需要点击切换时候渲染
 				this.getData();
-				this.getList()
+			this.getList();
+			// this.getview()
 		},
 		methods: {
 			changeCurrent(e) {
@@ -68,7 +70,7 @@
 				// 所有的列表数据都共用一个url：/static/dataJs/category{num}.json，只是携带的url的num参数不同
 				//每次点击列表的时候改变请求的url,从而渲染每个列表相对应的数据
 				this.obj = {
-					url: `category${this.current + 1}.json`
+					url: `/category${this.current + 1}.json`
 				}
 				this.getData(this.obj)
 			},
@@ -76,7 +78,7 @@
 			async getData(obj) {
 				//除第一次(热门推荐)，后面列表数据需要点击切换时候渲染
 				this.obj = {
-					url: `category${this.current + 1}.json`
+					url: `/category${this.current + 1}.json`
 				}
 				const res = await this.$http.getData(this.obj)
 				this.categoryList = res.data;
@@ -85,7 +87,16 @@
 			async getList() {
 				const res = await this.$http.getList();
 				this.titleView = res.data
-			}
+				// console.log(res.data)
+			},
+			// getview(){
+			// 	uni.request({
+			// 		url:'http://127.0.0.1:8085/login.json',
+			// 		success: (res) => {
+			// 			console.log(res.data)
+			// 		}
+			// 	})
+			// }
 		}
 	}
 </script>
@@ -94,18 +105,17 @@
 	.content {
 		display: flex;
 		flex-direction: row;
-
 	}
 
 	.scroll-content {
 		width: 172rpx;
+		z-index: 50;
 	}
 
 	.scroll-box {
 		position: fixed;
 		width: 172rpx;
 		height: 100%;
-
 	}
 
 	.list-item {
@@ -132,6 +142,7 @@
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
+		z-index: 10;
 	}
 
 	.content-shop {

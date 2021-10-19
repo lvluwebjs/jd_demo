@@ -1,7 +1,12 @@
 //基于promise再次封装uni.request请求
 function $ajax(obj) {
 	return new Promise((resolve, reject) => {
-		const HOST = '/static/dataJs/' //所有接口请求的公共路径
+		// #ifdef MP-WEIXIN
+		const HOST = 'http://localhost:8089' //所有接口请求的公共路径
+		// #endif
+		// #ifdef H5
+		const HOST = '' //所有接口请求的公共路径
+		// #endif
 		var method = obj.method || "GET"; //请求方法，get为默认值
 		var url = HOST + obj.url || ""; //拼接请求地址与公共路径
 		var data = obj.data || {}; //请求所需参数
